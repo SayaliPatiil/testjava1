@@ -4,9 +4,6 @@ import com.Model.Model;
 import java.util.logging.Logger;
 import java.lang.String;
 import java.lang.*;
-import java.util.logging.Logger;
-import java.lang.String;
-import java.lang.*;
 
 public final class Main {
     protected static String headline = "This is main class";
